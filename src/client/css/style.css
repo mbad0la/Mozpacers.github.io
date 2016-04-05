@@ -35,7 +35,6 @@ a {
 
   min-width: 320px;
   min-height: 100%;
-  /*margin-bottom: 200px;*/
 
   border-top: 2px solid #fff;
 }
@@ -553,7 +552,6 @@ section#events {
 .cardfigure span {
   font-weight: bold;
   position: relative;
-  /*bottom: 4.0em;*/
 }
 
 .cardfigure h4 {
